@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.0376b2b8.chunk.css",
-  "main.js": "/static/js/main.0a14e434.chunk.js",
-  "main.js.map": "/static/js/main.0a14e434.chunk.js.map",
-  "static/js/1.6eb6405c.chunk.js": "/static/js/1.6eb6405c.chunk.js",
-  "static/js/1.6eb6405c.chunk.js.map": "/static/js/1.6eb6405c.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.0376b2b8.chunk.css.map": "/static/css/main.0376b2b8.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.bfc7551b03f45ab6d52b9f6746ace103.js": "/precache-manifest.bfc7551b03f45ab6d52b9f6746ace103.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/KosdriyPortfolio.io/static/css/main.0376b2b8.chunk.css",
+  "main.js": "/KosdriyPortfolio.io/static/js/main.7edc0786.chunk.js",
+  "main.js.map": "/KosdriyPortfolio.io/static/js/main.7edc0786.chunk.js.map",
+  "static/js/1.6eb6405c.chunk.js": "/KosdriyPortfolio.io/static/js/1.6eb6405c.chunk.js",
+  "static/js/1.6eb6405c.chunk.js.map": "/KosdriyPortfolio.io/static/js/1.6eb6405c.chunk.js.map",
+  "runtime~main.js": "/KosdriyPortfolio.io/static/js/runtime~main.b890a2d5.js",
+  "runtime~main.js.map": "/KosdriyPortfolio.io/static/js/runtime~main.b890a2d5.js.map",
+  "static/css/main.0376b2b8.chunk.css.map": "/KosdriyPortfolio.io/static/css/main.0376b2b8.chunk.css.map",
+  "index.html": "/KosdriyPortfolio.io/index.html",
+  "precache-manifest.0e2c2c11481410db15410a4d79ccb2a3.js": "/KosdriyPortfolio.io/precache-manifest.0e2c2c11481410db15410a4d79ccb2a3.js",
+  "service-worker.js": "/KosdriyPortfolio.io/service-worker.js"
 }
