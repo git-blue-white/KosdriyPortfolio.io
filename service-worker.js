@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/KosdriyPortfolio.io/precache-manifest.0e2c2c11481410db15410a4d79ccb2a3.js"
+  "/KosdriyPortfolio.io/precache-manifest.aab399d321e24176d3e9446023a7ff05.js"
 );
 
 workbox.clientsClaim();
