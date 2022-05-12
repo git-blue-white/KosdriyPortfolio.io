@@ -1,10 +1,10 @@
 let resumeData = {
     "imagebaseurl":"",
-    "name": "karlo Stern",
+    "name": "Andriy Kostin",
     "role": "Full-stack developer",
     "linkedinId":"",
     "skypeid": "",
-    "roleDescription": "I am a Full Stack Developer with over 7 years of experience in PHP, JavaScript, MERN, etc. I've got a lot of experience in developing comfortable and useful Web Applications, using above skills. I am a quick learner with incisive eyes and so I am able to adapt quickly to challenging situations.",
+    "roleDescription": "I've got 10 years experience in Full stack Development, and I'm familiar with a wide variety of programming languages and strong experience. My objective is to work and satisfy my clients by providing them with high quality of work, communication, clean code and a professional approach to work. I try to povide clear readable code and correct time. ",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -22,25 +22,25 @@ let resumeData = {
           "className":"fa fa-skype"
         }
       ],
-    "aboutme":"I am 30 years old and I am working as a freelancer now.  I worked for 3 companies and I had a role as a full stack developer.  I developed various websites with fast speed and high quality.  I am the most proud of web development.  I studied AI, Cryptography and Algorithms in the university.",
-    "address":"Basel, Switzerland",
+    "aboutme":"I am 30 years old and I am working as a freelancer now.  I worked for 3 companies with role as a full stack developer.  I developed various websites with fast speed and high quality.  I am the most proud of web development.  I studied AI, Cryptography and Algorithms in the university.",
+    "address":"Newton, NJ, United States",
     "website":"https://swbakast.com",
     "education":[
       {
         "imageurl":"images/universitymark.png",
-        "UniversityName":"University of Zurich",
-        "specialization":"The University of Zurich (UZH, German: Universität Zürich) is a public research university located in the city of Zürich, Switzerland. It is the largest university in Switzerland, with its 28,000 enrolled students.",
+        "UniversityName":"Florida Institute Of Technology",
+        "specialization":"Florida Tech is a tier 1 ranked university with programs in science, engineering, aeronautics, business, humanities, psychology, and communication.",
         "MonthOfPassing":"June",
-        "YearOfPassing":"2014",
-        "Achievements":"B.Sc Informatics"
+        "YearOfPassing":"2012",
+        "Achievements":"Computer Science, B.S."
       }
     ],
     "work1":[
       {
         "markurl":"images/logo-gray.svg",
-        "CompanyName":"Tree Stones",
-        "specialization":"Tree stones is a e-commerce development company and they focus on web development, digital strategy, etc.",
-        "YearOfLeaving":"2014/07 - 2016/03",
+        "CompanyName":"Intelligent Systems A/S",
+        "specialization":"Intelligent Systems A/S is a e-commerce development company and they focus on web development, digital strategy, etc.",
+        "YearOfLeaving":"2012/10 - 2015/10",
         "Achievements":[
           {"context":"Created front-end pages using HTML, CSS, etc."},
           {"context":"Designed and created database using MySQL and MongoDB."},
@@ -52,9 +52,9 @@ let resumeData = {
     "work2":[
       {
         "markurl":"images/logo-gray.svg",
-        "CompanyName":"Imaginary Cloud",
-        "specialization":"ImaginaryCloud is a software development and UX/UI Design Company. Their product developments are Web development, Mobile development and Data Science/Artificial Intelligence. ",
-        "YearOfLeaving":"2016/04 - 2019/08",
+        "CompanyName":"Caddiesoft Development",
+        "specialization":"Caddiesoft Development is a software development and UX/UI Design Company. Their product developments are Web development, Mobile development and Data Science/Artificial Intelligence. ",
+        "YearOfLeaving":"2015/11 - 2019/07",
         "Achievements":[
           {"context":"Designed and Developed reusable UX/UI components using jQuery."},
           {"context":"Designed and Created Databases using MongoDB."},
@@ -134,17 +134,17 @@ let resumeData = {
       {
         "name":"techtudo",
         "description":"mobileapp",
-        "imgurl":"images/port2.png"
+        "imgurl":"images/port2.jpg"
       },
       {
         "name":"project3",
         "description":"mobileapp",  
-        "imgurl":"images/port3.png"
+        "imgurl":"images/port3.jpg"
       },
       {
         "name":"project4",
         "description":"mobileapp",
-        "imgurl":"images/port4.png"
+        "imgurl":"images/port4.jpg"
       }
     ],
     "testimonials":[
